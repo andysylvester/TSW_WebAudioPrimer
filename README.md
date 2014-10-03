@@ -22,6 +22,14 @@ You can see the app running at http://andysylvester.com/files/tsw/ex02/index02.h
 
 This <a href="http://andysylvester.com/2014/09/30/tsw-web-audio-primer-part-2/">blog post</a> also talks about the Example 2 code.
 
+Example 3 - Change the oscillator
+
+Everything needed for this example is in the "ex03" folder.
+
+You can see the app running at http://andysylvester.com/files/tsw/ex03/index03.html
+
+This <a href="http://andysylvester.com/2014/10/02/tsw-web-audio-primer-part-3/">blog post</a> also talks about the Example 3 code.
+
 Resources
 ---------
 
