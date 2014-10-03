@@ -47,5 +47,5 @@ Release history
 
 9/30/2014 - Example 2 code
 
-
+10/2/2014 - Example 3 code
 
