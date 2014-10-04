@@ -38,6 +38,14 @@ You can see the app running at http://andysylvester.com/files/tsw/ex04/index04.h
 
 This <a href="http://andysylvester.com/2014/10/03/tsw-web-audio-primer-part-4/">blog post</a> also talks about the Example 4 code.
 
+Example 5 - Play a chord
+
+Everything needed for this example is in the "ex05" folder.
+
+You can see the app running at http://andysylvester.com/files/tsw/ex05/index05.html
+
+This <a href="http://andysylvester.com/2014/10/04/tsw-web-audio-primer-part-5/">blog post</a> also talks about the Example 5 code.
+
 Resources
 ---------
 
@@ -58,3 +66,5 @@ Release history
 10/2/2014 - Example 3 code
 
 10/3/2014 - Example 4 code
+
+10/4/2014 - Example 5 code
