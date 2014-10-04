@@ -30,6 +30,14 @@ You can see the app running at http://andysylvester.com/files/tsw/ex03/index03.h
 
 This <a href="http://andysylvester.com/2014/10/02/tsw-web-audio-primer-part-3/">blog post</a> also talks about the Example 3 code.
 
+Example 4 - Add a keyboard
+
+Everything needed for this example is in the "ex04" folder.
+
+You can see the app running at http://andysylvester.com/files/tsw/ex04/index04.html
+
+This <a href="http://andysylvester.com/2014/10/03/tsw-web-audio-primer-part-4/">blog post</a> also talks about the Example 4 code.
+
 Resources
 ---------
 
@@ -49,3 +57,4 @@ Release history
 
 10/2/2014 - Example 3 code
 
+10/3/2014 - Example 4 code
