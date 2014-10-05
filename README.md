@@ -46,6 +46,14 @@ You can see the app running at http://andysylvester.com/files/tsw/ex05/index05.h
 
 This <a href="http://andysylvester.com/2014/10/04/tsw-web-audio-primer-part-5/">blog post</a> also talks about the Example 5 code.
 
+Example 6 - Play a scale
+
+Everything needed for this example is in the "ex06" folder.
+
+You can see the app running at http://andysylvester.com/files/tsw/ex06/index06.html
+
+This <a href="http://andysylvester.com/2014/10/05/tsw-web-audio-primer-part-6/">blog post</a> also talks about the Example 6 code.
+
 Resources
 ---------
 
