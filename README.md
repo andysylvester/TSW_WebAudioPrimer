@@ -7,6 +7,7 @@ Overview
 This is a set of examples for the Web Audio API using the <a href="http://theresassoundworld.com/">Theresa's Sound World</a> framework by <a href="http://stuartmemo.com/">Stuart Memo</a>.
 
 Example 1 - Play a single pitch
+-------------------------------
 
 Everything needed for this example is in the "ex01" folder.
 
@@ -15,6 +16,7 @@ You can see the app running at http://andysylvester.com/files/tsw/ex01/index01.h
 This <a href="http://andysylvester.com/2014/09/30/tsw-web-audio-primer-part-1/">blog post</a> also talks about the Example 1 code.
 
 Example 2 - Play different pitches
+----------------------------------
 
 Everything needed for this example is in the "ex02" folder.
 
@@ -23,6 +25,7 @@ You can see the app running at http://andysylvester.com/files/tsw/ex02/index02.h
 This <a href="http://andysylvester.com/2014/09/30/tsw-web-audio-primer-part-2/">blog post</a> also talks about the Example 2 code.
 
 Example 3 - Change the oscillator
+---------------------------------
 
 Everything needed for this example is in the "ex03" folder.
 
@@ -31,6 +34,7 @@ You can see the app running at http://andysylvester.com/files/tsw/ex03/index03.h
 This <a href="http://andysylvester.com/2014/10/02/tsw-web-audio-primer-part-3/">blog post</a> also talks about the Example 3 code.
 
 Example 4 - Add a keyboard
+--------------------------
 
 Everything needed for this example is in the "ex04" folder.
 
@@ -39,6 +43,7 @@ You can see the app running at http://andysylvester.com/files/tsw/ex04/index04.h
 This <a href="http://andysylvester.com/2014/10/03/tsw-web-audio-primer-part-4/">blog post</a> also talks about the Example 4 code.
 
 Example 5 - Play a chord
+------------------------
 
 Everything needed for this example is in the "ex05" folder.
 
@@ -47,12 +52,22 @@ You can see the app running at http://andysylvester.com/files/tsw/ex05/index05.h
 This <a href="http://andysylvester.com/2014/10/04/tsw-web-audio-primer-part-5/">blog post</a> also talks about the Example 5 code.
 
 Example 6 - Play a scale
+------------------------
 
 Everything needed for this example is in the "ex06" folder.
 
 You can see the app running at http://andysylvester.com/files/tsw/ex06/index06.html
 
 This <a href="http://andysylvester.com/2014/10/05/tsw-web-audio-primer-part-6/">blog post</a> also talks about the Example 6 code.
+
+Example 7 - Fun with filters
+----------------------------
+
+Everything needed for this example is in the "ex07" folder.
+
+You can see the app running at http://andysylvester.com/files/tsw/ex07/index07.html
+
+This <a href="http://andysylvester.com/2014/10/11/tsw-web-audio-primer-part-7/">blog post</a> also talks about the Example 7 code.
 
 Resources
 ---------
@@ -63,6 +78,9 @@ http://www.w3.org/TR/webaudio/ - Web Audio API specification
 
 <a href="http://stackoverflow.com/questions/8084964/how-to-overwrite-styling-in-twitter-bootstrap">StackOverflow</a>: How to Overwrite Styling In Twitter Bootstrap
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode">Mozilla Developer Network</a>: Page on biquad filters
+
+<a href="http://chimera.labs.oreilly.com/books/1234000001552/ch06.html">O'Reilly.com</a>: Boris Smus book on Web Audio API, link to chapter on filters
 
 Release history
 ---------------
@@ -76,3 +94,7 @@ Release history
 10/3/2014 - Example 4 code
 
 10/4/2014 - Example 5 code
+
+10/5/2014 - Example 6 code
+
+10/11/2014 - Example 7 code
